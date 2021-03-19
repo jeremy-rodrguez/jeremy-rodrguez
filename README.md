@@ -1,5 +1,9 @@
 ### Hi there! I'm Jeremy 👋
 
+I'm a former community manager in property management turned software engineer and recent graduate from Flatiron School. I have 4+ years of Sales and Customer Service experience juxtaposed with strong interpersonal skills and authenticity.
+
+<i>Listen, not just hear</i>
+
 <!--
 **jeremy-rodrguez/jeremy-rodrguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
