@@ -27,7 +27,6 @@ Everyone's One-Stop Shop for Baby Products
 <img src="https://camo.githubusercontent.com/0307c1fff5ff9def19fc77c6d53f88a2de8121ec57af5a9983b1037b593b62e1/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f68746d6c352d706c61696e2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="html5" align="left" width="40" height="40" data-canonical-src="https://icongr.am/devicon/html5-plain.svg?size=128&amp;color=currentColor" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/cc125a85295aed7f1de26a7e3455e3f3d347d715d06032a0ed63955ba758711b/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f637373332d706c61696e2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="css3" align="left" width="40" height="40" data-canonical-src="https://icongr.am/devicon/css3-plain.svg?size=128&amp;color=currentColor" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/d82e839d1434c2b0871de87b92f48ab55fde0db152d336aea56b031134151850/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f6a6176617363726970742d706c61696e2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" alt="js" align="left" width="40" height="40" data-canonical-src="https://icongr.am/devicon/javascript-plain.svg?size=128&amp;color=currentColor" style="max-width:100%;">
-<br>
 
 ### I am Currently Learning 🔭
 
